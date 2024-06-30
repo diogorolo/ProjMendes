@@ -1,0 +1,64 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 552px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 387px;
+  height: 156px;
+  margin: 0 377px 0 376px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: aptos;
+  line-height: 1;
+  width: 387px;
+  margin: 39px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    width: 570px;
+    margin-right: 277px;
+    margin-left: 276px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    width: 387px;
+    margin-right: 167px;
+    margin-left: 166px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 76px;
+    margin-right: 77px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 533px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 137px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 58px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}@font-face {
+  font-family: 'aptos';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/aptos.ttf);
+}
